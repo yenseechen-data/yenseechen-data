@@ -19,6 +19,7 @@ Technical Skills
 Data Analytics
 
 * Python
+* SQL
 * Pandas
 * NumPy
 * Matplotlib
