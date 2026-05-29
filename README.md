@@ -8,7 +8,8 @@ About Me
 
 ☁️ AWS Certified Cloud Practitioner
 
-📊 Interested in Financial Analytics Engineering, Financial Consulting, and Machine Learning
+📊 Financial Analytics Engineer | Financial Consultant
+Exploring Machine Learning Applications in Finance
 
 🌎 Based in Brazil | Open to Remote Opportunities
 
