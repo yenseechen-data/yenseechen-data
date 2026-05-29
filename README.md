@@ -1,16 +1,63 @@
-## Hi there 👋
+Hi, I’m Yen See Chen 👋
 
-<!--
-**yenseechen-data/yenseechen-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 Master of Financial Engineering (USC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 CFA Level III Passed
+
+☁️ AWS Certified Cloud Practitioner
+
+📊 Interested in Financial Analytics Engineering, Financial Consulting, and Machine Learning
+
+🌎 Based in Brazil | Open to Remote Opportunities
+
+⸻
+
+Technical Skills
+
+Data Analytics
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Statistical Analysis
+
+Machine Learning
+
+* Logistic Regression
+* Decision Trees
+* Random Forest
+* XGBoost
+* CatBoost
+
+Data Visualization
+
+* Tableau
+* Power BI
+
+Cloud
+
+* AWS Cloud Practitioner
+
+⸻
+
+Featured Projects
+
+📊 FoodHub Business Analytics
+
+Business analytics project focused on customer behavior, restaurant performance, delivery efficiency, and business recommendations.
+
+📈 E-News Express A/B Testing
+
+Statistical analysis project using hypothesis testing to evaluate landing page performance and conversion improvement.
+
+⸻
+
+Connect With Me
+
+LinkedIn:
+
+www.linkedin.com/in/yensee-jenny-chen-b6b9855
